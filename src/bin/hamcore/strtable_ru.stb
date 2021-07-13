@@ -2742,7 +2742,8 @@ IDOK					&OK
 IDCANCEL				Отмена
 S_1						Рейтинг в кластере:
 S_2						(Стандарт: 100)
-R_CONTROLLER_ONLY		Только функции контроллера (Нет VPN сессии на самого себя)
+R_CONTROLLER_ONLY		Только функции контроллера (Не обрабатывает VPN сессии)
+                                               
 
 
 PREFIX					D_SM_FARM_MEMBER
